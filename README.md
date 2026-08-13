@@ -9,45 +9,39 @@
 &nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/aashiyanipriya?style=flat-square)
 </div>
+<h2>🧠 SYSTEM INITIALIZED</h2>
 
-# SYSTEM INITIALIZED 
-╔══════════════════════════════════════════════════════════════╗
-║                    AASHIYANI.PRIYA                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  STATUS          : ONLINE                                    ║
-║  MODE            : BUILDING                                  ║
-║  DOMAIN          : ARTIFICIAL INTELLIGENCE                   ║
-║  SPECIALIZATION  : ML / GenAI / AI AGENTS                    ║
-║                                                              ║
-║  CURRENT_OBJECTIVE:                                          ║
-║     → Build intelligent systems                              ║
-║     → Solve real-world problems with AI                      ║
-║     → Explore agentic architectures                          ║
-║     → Turn research into working products                    ║
-║                                                              ║
-║  SYSTEM_PHILOSOPHY:                                          ║
-║     "Don't just build AI. Build AI that matters."            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-# CURRENT MISSION
-<table> <tr> <td width="50%">
-🔨 BUILDING
+<div align="center">
 
-AI-powered applications
-Machine Learning systems
-RAG-based applications
-Intelligent automation
-Real-world AI solutions
+<table>
+<tr>
+<td>
 
-</td> <td width="50%">
-🧪 EXPLORING
-
-Generative AI
-AI Agents
-Multi-Agent Systems
-LLM Applications
-System Design
+```text
+╔══════════════════════════════════════════════════════════╗
+║                  AASHIYANI.PRIYA // AI                  ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  STATUS          : ONLINE                                ║
+║  MODE            : BUILDING                              ║
+║  DOMAIN          : ARTIFICIAL INTELLIGENCE               ║
+║  SPECIALIZATION  : ML / GenAI / AI AGENTS                ║
+║                                                          ║
+║  CURRENT OBJECTIVE:                                      ║
+║    → Build intelligent systems                           ║
+║    → Solve real-world problems with AI                   ║
+║    → Explore agentic architectures                       ║
+║    → Turn ideas into working products                    ║
+║                                                          ║
+║  SYSTEM PHILOSOPHY:                                      ║
+║    "Don't just build AI. Build AI that matters."         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</td>
+</tr>
+</table>
+</div>
+<h2>🎯 CURRENT MISSION</h2> <table> <tr> <td width="50%" valign="top"> <h3>🔨 BUILDING</h3> <ul> <li>AI-powered applications</li> <li>Machine Learning systems</li> <li>RAG-based applications</li> <li>Intelligent automation</li> <li>Real-world AI solutions</li> </ul> </td> <td width="50%" valign="top"> <h3>🧪 EXPLORING</h3> <ul> <li>Generative AI</li> <li>AI Agents</li> <li>Multi-Agent Systems</li> <li>LLM Applications</li> <li>System Design</li> </ul> </td> </tr> </table>
 
 </td> </tr> </table>
 # TECH STACK
@@ -55,7 +49,7 @@ System Design
 Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,mysql" />
 AI / ML / Data
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
 
 <br><br>
 
@@ -64,15 +58,14 @@ Generative AI
 LangChain RAG LLMs AI Agents Prompt Engineering Mistral AI
 
 Backend & Development
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=flask,django,react" />
 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,googlecloud" /> </div
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,googlecloud" /> </div
 
-# 🌐 CONNECT TO SYSTEM
-<div align="center"> <a href="https://github.com/aashiyanipriya"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/priya-aashiyani-a08396374/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+<h2>🌐 CONNECT TO SYSTEM</h2> <div align="center"> <a href="https://github.com/aashiyanipriya"> <img src="https://img.shields.io/badge/GitHub-AASHIYANI.PRIYA-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+<a href="https://www.linkedin.com/in/priya-aashiyani-a08396374/"> <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </div>
 
-<div align="center">
-SYSTEM STATUS: BUILDING THE FUTURE...
+<div align="center"> <h3>⚡ SYSTEM STATUS: BUILDING THE FUTURE...</h3>
 while (curious) {
     learn();
     build();
@@ -80,8 +73,12 @@ while (curious) {
     improve();
     repeat();
 }
-⚡ Thanks for entering my repository.
+<br>
 
-AI is not just something I study — it's something I build.
+<b>AI is not just something I study — it's something I build.</b>
+
+<br><br>
+
+⭐<b> <i>Thanks for entering my repository.</i></b>
 
 </div>
